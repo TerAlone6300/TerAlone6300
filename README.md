@@ -21,8 +21,9 @@
 
 ## 📫 Liên hệ
 - GitHub: [github.com/TerAlone6300](https://github.com/TerAlone6300)  
-- (Tuỳ bạn thêm Discord / Email nếu muốn)
-
+- Discord: [teralonwcutiii](https://discord.gg/xV8Qpj4R)
+- Discord Server: [TerAlone Community](https://discord.gg/a3zFerFBAC)
+- Bio: [My Custom Bio](https://teralonwcutiibio.web.app)
 ---
 
 ⭐ Nếu bạn thấy hứng thú với project của mình, nhớ **star repo** để ủng hộ nhé!
